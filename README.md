@@ -57,7 +57,6 @@ flowchart TD
 ```text
 ├── M115_Lab2_1.ipynb             # Fully solved notebook with outputs, TreeSHAP & markdown responses
 ├── Resume_Lab2_English.md        # Technical study guide & exercise breakdown in English
-├── Resume_Lab2_Darija.md         # Fast-review guide in Moroccan Darija (Arabizi)
 ├── README_Lab2.md                # Project documentation and SOC architectural blueprint
 └── README.md                     # Lab 1 & Lab 2 general repository overview
 ```
